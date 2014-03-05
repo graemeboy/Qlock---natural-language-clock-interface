@@ -1,0 +1,2 @@
+<h2>Qlock Examples</h2>
+<p>Qlock is a natural language clock display. It shows the time down to minutes, with boarders around the clock face indicating the number of minutes before, or after, the next five minute steps. English words are printed for each step.</p>
